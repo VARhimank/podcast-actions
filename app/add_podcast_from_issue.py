@@ -31,9 +31,9 @@ def slugify(value):
 
 
 def create_podcast_yml_file(issue_data, yaml_directory):
-    slug = slugify(issue_data['title'])
+    slug = slugify(issue_data['name'])
     podcast_data = {
-        'title': issue_data['title'],
+        'title': issue_data['name'],
         'podcastIndexID': issue_data['podcastIndexID'],
         'tags': issue_data['tags'].split('\n'),
     }
