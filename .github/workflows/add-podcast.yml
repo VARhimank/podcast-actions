@@ -1,0 +1,36 @@
+name: Add Podcast
+
+on:
+  issues:
+    types: [labeled]
+
+jobs:
+  add-podcast:
+    if: contains(github.event.issue.labels.*.name, 'add-podcast')
+    runs-on: ubuntu-24.04
+    defaults:
+      run:
+        working-directory: app
+    steps:
+      - uses: actions/checkout@v4.1.7
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+            python-version: "3.12"
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      - name: Run GitHub issue forms parser
+        id: issue-parser
+        uses: edumserrano/github-issue-forms-parser@v1
+        with:
+          template-filepath: '.github/ISSUE_TEMPLATE/add-podcast.yml'
+          issue-form-body: '${{ github.event.issue.body }}'
+      - name: Output parsed issue
+        shell: pwsh
+        run: |
+          $issue = '${{ steps.issue-parser.outputs.parsed-issue }}' | ConvertFrom-Json
+          $issueAsJsonIndented = ConvertTo-Json $issue
+          Write-Output $issueAsJsonIndented
+
