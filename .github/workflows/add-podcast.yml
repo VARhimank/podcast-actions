@@ -27,10 +27,27 @@ jobs:
         with:
           template-filepath: '.github/ISSUE_TEMPLATE/add-podcast.yml'
           issue-form-body: '${{ github.event.issue.body }}'
-      - name: Output parsed issue
-        shell: pwsh
+    #   - name: Output parsed issue
+    #     shell: pwsh
+    #     run: |
+    #       $issue = '${{ steps.issue-parser.outputs.parsed-issue }}' | ConvertFrom-Json
+    #       $issueAsJsonIndented = ConvertTo-Json $issue
+    #       Write-Output $issueAsJsonIndented
+      - name: Generate Podcast YAML from issue
         run: |
-          $issue = '${{ steps.issue-parser.outputs.parsed-issue }}' | ConvertFrom-Json
-          $issueAsJsonIndented = ConvertTo-Json $issue
-          Write-Output $issueAsJsonIndented
+            python add_podcast_from_issue.py \
+                --yaml-directory ../podcasts \
+                --json-issue '${{ steps.issue-parser.outputs.parsed-issue }}' \
+                --api-key '${{ secrets.PODCASTINDEX_API_KEY }}' \
+                --api-secret '${{ secrets.PODCASTINDEX_API_SECRET }}'
 
+      # Commit results back to repository
+      - uses: stefanzweifel/git-auto-commit-action@v5.0.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          commit_message: Gnerate podcast data
+          branch: main
+          commit_user_name: Podcast Bot
+          commit_user_email: podcastbot@bascodes.com
+          commit_author: Podcast Bot <podcastbot@bascodes.com>

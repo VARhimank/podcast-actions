@@ -18,12 +18,10 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4.1.7
-
       - name: Set up Python 3.12
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-    
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
@@ -36,13 +34,10 @@ jobs:
                 --json-directory ../generated \
                 --api-key '${{ secrets.PODCASTINDEX_API_KEY }}' \
                 --api-secret '${{ secrets.PODCASTINDEX_API_SECRET }}'
-
-
       - name: Generate README
         run: |
             python generate_readme.py \
                 --json-directory ../generated \
-
 
       # Commit results back to repository
       - uses: stefanzweifel/git-auto-commit-action@v5.0.1
