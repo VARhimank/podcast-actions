@@ -43,7 +43,7 @@ def slugify(value):
 
 
 def enrich_data(data, api_key, api_secret, image_directory):
-    podcast_index_id = data['podcastIndexID']
+    podcast_index_id = data['podcastIndexId']
     url = f'https://api.podcastindex.org/api/1.0/podcasts/byfeedid?id={podcast_index_id}'
     # we'll need the unix time
     epoch_time = int(time.time())

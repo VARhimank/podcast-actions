@@ -34,7 +34,7 @@ def create_podcast_yml_file(issue_data, yaml_directory):
     slug = slugify(issue_data['name'])
     podcast_data = {
         'title': issue_data['name'],
-        'podcastIndexID': issue_data['podcastIndexID'],
+        'podcastIndexId': issue_data['podcastIndexId'],
         'tags': issue_data['tags'].split('\n'),
     }
     with open(os.path.join(yaml_directory, f"{podcast_data['slug']}.yml"), 'w') as f:
