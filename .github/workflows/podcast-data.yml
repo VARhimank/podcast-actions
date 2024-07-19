@@ -18,7 +18,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4.1.7
-      - uses: actions/setup-go@v5.0.1
 
       - name: Set up Python 3.12
         uses: actions/setup-python@v5
@@ -35,21 +34,9 @@ jobs:
             python generate_podcast_json.py \
                 --yaml-directory ../podcasts \
                 --json-directory ../generated \
-                --api-key ${{ secrets.PODCASTINDEX_API_KEY }} \
-                --api-secret ${{ secrets.PODCASTINDEX_API_SECRET }}
+                --api-key '${{ secrets.PODCASTINDEX_API_KEY }}' \
+                --api-secret '${{ secrets.PODCASTINDEX_API_SECRET }}'
 
-
-      - name: GermanTechPodcasts Convert YAML to JSON
-        run: ./GermanTechPodcasts convertYamlToJson --yaml-directory ../podcasts --json-directory ../generated
-
-      - name: GermanTechPodcasts Gather additional podcast data
-        run: ./GermanTechPodcasts collectPodcastData --api-key ${{ secrets.PODCASTINDEX_API_KEY }} --api-secret ${{ secrets.PODCASTINDEX_API_SECRET }} --json-directory ../generated
-
-      - name: GermanTechPodcasts Convert JSON to README
-        run: ./GermanTechPodcasts convertJsonToReadme --json-directory ../generated --readme-template ../assets/README.template --readme-output ../README.md
-
-      - name: GermanTechPodcasts Render OPML file
-        run: ./GermanTechPodcasts generateOpml --json-directory ../generated --opml-output ../podcasts.opml
 
       # Commit results back to repository
       - uses: stefanzweifel/git-auto-commit-action@v5.0.1
