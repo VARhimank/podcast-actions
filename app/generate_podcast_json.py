@@ -89,6 +89,7 @@ def enrich_data(data, api_key, api_secret, image_directory):
 
 def main():
     args = get_args()
+    print(f"{args=}")
     yaml_files = get_yaml_files(args.yaml_directory)
     yaml_data = get_yaml_data(args.yaml_directory, yaml_files)
     for data in yaml_data:
