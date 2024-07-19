@@ -38,6 +38,12 @@ jobs:
                 --api-secret '${{ secrets.PODCASTINDEX_API_SECRET }}'
 
 
+      - name: Generate README
+        run: |
+            python generate_readme.py \
+                --json-directory ../generated \
+
+
       # Commit results back to repository
       - uses: stefanzweifel/git-auto-commit-action@v5.0.1
         env:
