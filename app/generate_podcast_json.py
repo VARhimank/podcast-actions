@@ -83,7 +83,8 @@ def enrich_data(data, api_key, api_secret, image_directory):
         'episodeCount': response_data['feed']['episodeCount'],
         'categories': response_data['feed']['categories'],
         'tags': data['tags'],
-        'image': image_filename
+        'image': image_filename,
+        'podcastIndexId': podcast_index_id
     }
     return enriched_data
 

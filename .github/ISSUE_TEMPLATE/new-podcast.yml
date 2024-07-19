@@ -1,0 +1,27 @@
+name: New Podcast
+description: Add a podcast to the list
+title: "[Add Podcast]: "
+labels: ["add-podcast"]
+
+body:
+  - type: input
+    id: podcastIndexId
+    attributes:
+      label: PodcastIndex.org ID
+      description: The ID of the podcast on PodcastIndex.org
+      placeholder: ex. 522889
+    validations:
+      required: true
+  - type: input
+    id: name
+    attributes:
+      label: Title of the podcast
+      description: The name of the podcast
+      placeholder: Syntax.fm
+    validations:
+      required: true
+  - type: textarea
+    id: tags
+    attributes:
+      label: Tags for the podcast
+      description: One per line
