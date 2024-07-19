@@ -37,7 +37,7 @@ def create_podcast_yml_file(issue_data, yaml_directory):
         'podcastIndexId': issue_data['podcastIndexId'],
         'tags': issue_data['tags'].split('\n'),
     }
-    with open(os.path.join(yaml_directory, f"{podcast_data['slug']}.yml"), 'w') as f:
+    with open(os.path.join(yaml_directory, f"{slug}.yml"), 'w') as f:
         yaml.dump(podcast_data, f)
 
 
