@@ -15,4 +15,17 @@ Full Stack Developers Wes Bos and Scott Tolinski dive deep into web development 
 
 ----
 
+<h3 id="talk-python-to-me">Talk Python To Me</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/talk-python-to-me.png" />
+
+Talk Python to Me is a weekly podcast hosted by developer and entrepreneur Michael Kennedy. We dive deep into the popular packages and software developers, data scientists, and incredible hobbyists doing amazing things with Python. If you're new to Python, you'll quickly learn the ins and outs of th...
+
+* Number of published episodes: 469
+* [Talk Python To Me Website](https://talkpython.fm/)
+* [Talk Python To Me Feed](https://talkpython.fm/episodes/rss)
+* Tags: python, programming
+
+----
+
 
