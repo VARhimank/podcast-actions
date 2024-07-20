@@ -50,9 +50,10 @@ jobs:
           commit_user_email: podcastbot@bascodes.com
           commit_author: Podcast Bot <podcastbot@bascodes.com>
 
-    #   - name: Trigger webpage to sync
-    #     uses: peter-evans/repository-dispatch@v3.0.0
-    #     with:
-    #       token: ${{ secrets.REPOSITORY_DISPATCH_TOKEN }}
-    #       repository: EngineeringKiosk/webpage
-    #       event-type: podcast-list-update
+
+      - name: Trigger webpage to sync
+        uses: peter-evans/repository-dispatch@v3.0.0
+        with:
+          token: ${{ secrets.REPOSITORY_DISPATCH_TOKEN }}
+          repository: sebst/thatus-wi-2024-podcast-site
+          event-type: podcast-update
