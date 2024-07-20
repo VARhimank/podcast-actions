@@ -69,7 +69,7 @@ def enrich_data(data, api_key, api_secret, image_directory):
     image_url = response_data['feed']['image']
     image_response = requests.get(image_url)
     image_data = image_response.content
-    image_file_extension = image_url.split('.')[-1]
+    image_file_extension = image_url.split('.')[-1].split('?')[0]
     image_filename = f"{slug}.{image_file_extension}"
     with open(os.path.join(image_directory, image_filename), 'wb') as f:
         f.write(image_data)
