@@ -41,6 +41,21 @@ jobs:
                 --api-key '${{ secrets.PODCASTINDEX_API_KEY }}' \
                 --api-secret '${{ secrets.PODCASTINDEX_API_SECRET }}'
 
+
+      - name: Generate Podcast JSON files
+        run: |
+            python generate_podcast_json.py \
+                --yaml-directory ../podcasts \
+                --json-directory ../generated \
+                --api-key '${{ secrets.PODCASTINDEX_API_KEY }}' \
+                --api-secret '${{ secrets.PODCASTINDEX_API_SECRET }}'
+      - name: Generate README
+        run: |
+            python generate_readme.py \
+                --json-directory ../generated \
+
+
+
       # Commit results back to repository
       - uses: stefanzweifel/git-auto-commit-action@v5.0.1
         env:
