@@ -32,10 +32,12 @@ def slugify(value):
 
 def create_podcast_yml_file(issue_data, yaml_directory):
     slug = slugify(issue_data['name'])
+    tags = [tag.strip() for tag in issue_data['tags'].split('\n')]
+    # TODO: Split bi ","
     podcast_data = {
         'title': issue_data['name'],
         'podcastIndexId': issue_data['podcastIndexId'],
-        'tags': [tag.strip() for tag in issue_data['tags'].split('\n').split(",")],
+        'tags': tags,
     }
     with open(os.path.join(yaml_directory, f"{slug}.yml"), 'w') as f:
         yaml.dump(podcast_data, f)
