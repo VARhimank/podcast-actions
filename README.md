@@ -2,6 +2,19 @@
 
 
 
+<h3 id="compressedfm">COMPRESSEDfm</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/compressedfm.jpg?aid=rss_feed" />
+
+A weekly podcast about web design and development with a little zest from James Q Quick, Amy Dutton, Brad Garropy, and Bekah HW....
+
+* Number of published episodes: 181
+* [COMPRESSEDfm Website](http://compressed.fm)
+* [COMPRESSEDfm Feed](https://feeds.simplecast.com/hq7M2S7s)
+* Tags: JavaScript, Web Development, Web Design
+
+----
+
 <h3 id="syntax-tasty-web-development-treats">Syntax - Tasty Web Development Treats</h3>
 
 <img align="right" width="215" height="215" src="./generated/images/syntax-tasty-web-development-treats.png" />
