@@ -23,7 +23,7 @@ Our goal with this podcast is simple. I want to tell your story. I want to docum
 
 ConTejas Code is a podcast in the web engineering space that has deep dives on various topics between frontend engineering with React, TypeScript, Next.js, and backend engineering with Kafka, Postgres, and more. The series is a mix of long-form content and guest episodes with industry leaders in the...
 
-* Number of published episodes: 33
+* Number of published episodes: 34
 * [ConTejas Code Website](https://shows.acast.com/contejas-code)
 * [ConTejas Code Feed](https://feeds.acast.com/public/shows/655148df2861630012a1d01b)
 * Tags: Open Source, Web Development, JavaScript
@@ -40,6 +40,23 @@ A weekly podcast about web design and development with a little zest from James 
 * [COMPRESSEDfm Website](http://compressed.fm)
 * [COMPRESSEDfm Feed](https://feeds.simplecast.com/hq7M2S7s)
 * Tags: JavaScript, Web Development, Web Design
+
+----
+
+<h3 id="commit-your-code">Commit Your Code!</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/commit-your-code.jpg" />
+
+This is the Commit Your Code Podcast! A show about software development, technology, and the developers that use it! Each Episode will Have 3 guests!
+- 1 Special Guest Host
+- 1 Technical Guest
+- 1 Junior Developer who has landed a job in tech within the last 18 months!
+I am your host, Danny Thompson...
+
+* Number of published episodes: 10
+* [Commit Your Code! Website](https://podcasters.spotify.com/pod/show/commityourcode)
+* [Commit Your Code! Feed](https://anchor.fm/s/1cd48480/podcast/rss)
+* Tags: Web Development, JavaScript
 
 ----
 
@@ -62,7 +79,7 @@ Talk Python to Me is a weekly podcast hosted by developer and entrepreneur Micha
 
 Full Stack Developers Wes Bos and Scott Tolinski dive deep into web development topics, explaining how they work and talking about their own experiences. They cover from JavaScript frameworks like React, to the latest advancements in CSS to simplifying web tooling....
 
-* Number of published episodes: 802
+* Number of published episodes: 803
 * [Syntax - Tasty Web Development Treats Website](https://syntax.fm)
 * [Syntax - Tasty Web Development Treats Feed](https://feed.syntax.fm/rss)
 * Tags: Web Development, JavaScript, Full-Stack
