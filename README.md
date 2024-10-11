@@ -2,29 +2,16 @@
 
 
 
-<h3 id="talk-python-to-me">Talk Python To Me</h3>
+<h3 id="contejas-code">ConTejas Code</h3>
 
-<img align="right" width="215" height="215" src="./generated/images/talk-python-to-me.jpg" />
+<img align="right" width="215" height="215" src="./generated/images/contejas-code.jpeg" />
 
-Talk Python to Me is a weekly podcast hosted by developer and entrepreneur Michael Kennedy. We dive deep into the popular packages and software developers, data scientists, and incredible hobbyists doing amazing things with Python. If you're new to Python, you'll quickly learn the ins and outs of th...
+ConTejas Code is a podcast in the web engineering space that has deep dives on various topics between frontend engineering with React, TypeScript, Next.js, and backend engineering with Kafka, Postgres, and more. The series is a mix of long-form content and guest episodes with industry leaders in the...
 
-* Number of published episodes: 478
-* [Talk Python To Me Website](https://talkpython.fm/)
-* [Talk Python To Me Feed](https://talkpython.fm/episodes/rss)
-* Tags: python, programming
-
-----
-
-<h3 id="syntax-tasty-web-development-treats">Syntax - Tasty Web Development Treats</h3>
-
-<img align="right" width="215" height="215" src="./generated/images/syntax-tasty-web-development-treats.png" />
-
-Full Stack Developers Wes Bos and Scott Tolinski dive deep into web development topics, explaining how they work and talking about their own experiences. They cover from JavaScript frameworks like React, to the latest advancements in CSS to simplifying web tooling....
-
-* Number of published episodes: 833
-* [Syntax - Tasty Web Development Treats Website](https://syntax.fm)
-* [Syntax - Tasty Web Development Treats Feed](https://feed.syntax.fm/rss)
-* Tags: Web Development, JavaScript, Full-Stack
+* Number of published episodes: 51
+* [ConTejas Code Website](https://shows.acast.com/contejas-code)
+* [ConTejas Code Feed](https://feeds.acast.com/public/shows/655148df2861630012a1d01b)
+* Tags: Open Source, Web Development, JavaScript
 
 ----
 
@@ -43,6 +30,32 @@ Our goal with this podcast is simple. I want to tell your story. I want to docum
 
 ----
 
+<h3 id="syntax-tasty-web-development-treats">Syntax - Tasty Web Development Treats</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/syntax-tasty-web-development-treats.png" />
+
+Full Stack Developers Wes Bos and Scott Tolinski dive deep into web development topics, explaining how they work and talking about their own experiences. They cover from JavaScript frameworks like React, to the latest advancements in CSS to simplifying web tooling....
+
+* Number of published episodes: 834
+* [Syntax - Tasty Web Development Treats Website](https://syntax.fm)
+* [Syntax - Tasty Web Development Treats Feed](https://feed.syntax.fm/rss)
+* Tags: Web Development, JavaScript, Full-Stack
+
+----
+
+<h3 id="talk-python-to-me">Talk Python To Me</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/talk-python-to-me.jpg" />
+
+Talk Python to Me is a weekly podcast hosted by developer and entrepreneur Michael Kennedy. We dive deep into the popular packages and software developers, data scientists, and incredible hobbyists doing amazing things with Python. If you're new to Python, you'll quickly learn the ins and outs of th...
+
+* Number of published episodes: 479
+* [Talk Python To Me Website](https://talkpython.fm/)
+* [Talk Python To Me Feed](https://talkpython.fm/episodes/rss)
+* Tags: python, programming
+
+----
+
 <h3 id="commit-your-code">Commit Your Code!</h3>
 
 <img align="right" width="215" height="215" src="./generated/images/commit-your-code.jpg" />
@@ -57,19 +70,6 @@ I am your host, Danny Thompson...
 * [Commit Your Code! Website](https://podcasters.spotify.com/pod/show/commityourcode)
 * [Commit Your Code! Feed](https://anchor.fm/s/1cd48480/podcast/rss)
 * Tags: Web Development, JavaScript
-
-----
-
-<h3 id="contejas-code">ConTejas Code</h3>
-
-<img align="right" width="215" height="215" src="./generated/images/contejas-code.jpeg" />
-
-ConTejas Code is a podcast in the web engineering space that has deep dives on various topics between frontend engineering with React, TypeScript, Next.js, and backend engineering with Kafka, Postgres, and more. The series is a mix of long-form content and guest episodes with industry leaders in the...
-
-* Number of published episodes: 51
-* [ConTejas Code Website](https://shows.acast.com/contejas-code)
-* [ConTejas Code Feed](https://feeds.acast.com/public/shows/655148df2861630012a1d01b)
-* Tags: Open Source, Web Development, JavaScript
 
 ----
 
