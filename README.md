@@ -51,7 +51,7 @@ I am your host, Danny Thompson...
 
 A weekly podcast about web design and development with a little zest from James Q Quick, Amy Dutton, Brad Garropy, and Bekah HW....
 
-* Number of published episodes: 186
+* Number of published episodes: 187
 * [COMPRESSEDfm Website](http://compressed.fm)
 * [COMPRESSEDfm Feed](https://feeds.simplecast.com/hq7M2S7s)
 * Tags: JavaScript, Web Development, Web Design
@@ -64,7 +64,7 @@ A weekly podcast about web design and development with a little zest from James 
 
 Full Stack Developers Wes Bos and Scott Tolinski dive deep into web development topics, explaining how they work and talking about their own experiences. They cover from JavaScript frameworks like React, to the latest advancements in CSS to simplifying web tooling....
 
-* Number of published episodes: 842
+* Number of published episodes: 843
 * [Syntax - Tasty Web Development Treats Website](https://syntax.fm)
 * [Syntax - Tasty Web Development Treats Feed](https://feed.syntax.fm/rss)
 * Tags: Web Development, JavaScript, Full-Stack
