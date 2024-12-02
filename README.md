@@ -8,7 +8,7 @@
 
 Talk Python to Me is a weekly podcast hosted by developer and entrepreneur Michael Kennedy. We dive deep into the popular packages and software developers, data scientists, and incredible hobbyists doing amazing things with Python. If you're new to Python, you'll quickly learn the ins and outs of th...
 
-* Number of published episodes: 485
+* Number of published episodes: 486
 * [Talk Python To Me Website](https://talkpython.fm/)
 * [Talk Python To Me Feed](https://talkpython.fm/episodes/rss)
 * Tags: python, programming
@@ -21,7 +21,7 @@ Talk Python to Me is a weekly podcast hosted by developer and entrepreneur Micha
 
 Full Stack Developers Wes Bos and Scott Tolinski dive deep into web development topics, explaining how they work and talking about their own experiences. They cover from JavaScript frameworks like React, to the latest advancements in CSS to simplifying web tooling....
 
-* Number of published episodes: 855
+* Number of published episodes: 856
 * [Syntax - Tasty Web Development Treats Website](https://syntax.fm)
 * [Syntax - Tasty Web Development Treats Feed](https://feed.syntax.fm/rss)
 * Tags: Web Development, JavaScript, Full-Stack
@@ -79,7 +79,7 @@ Our goal with this podcast is simple. I want to tell your story. I want to docum
 
 ConTejas Code is a podcast in the web engineering space that has deep dives on various topics between frontend engineering with React, TypeScript, Next.js, and backend engineering with Kafka, Postgres, and more. The series is a mix of long-form content and guest episodes with industry leaders in the...
 
-* Number of published episodes: 58
+* Number of published episodes: 59
 * [ConTejas Code Website](https://shows.acast.com/contejas-code)
 * [ConTejas Code Feed](https://feeds.acast.com/public/shows/655148df2861630012a1d01b)
 * Tags: Open Source, Web Development, JavaScript
