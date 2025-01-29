@@ -8,7 +8,7 @@
 
 A weekly podcast about web design and development with a little zest from James Q Quick, Amy Dutton, Brad Garropy, and Bekah HW....
 
-* Number of published episodes: 196
+* Number of published episodes: 197
 * [COMPRESSEDfm Website](http://compressed.fm)
 * [COMPRESSEDfm Feed](https://feeds.simplecast.com/hq7M2S7s)
 * Tags: JavaScript, Web Development, Web Design
