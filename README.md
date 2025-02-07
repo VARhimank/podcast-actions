@@ -79,7 +79,7 @@ Our goal with this podcast is simple. I want to tell your story. I want to docum
 
 Full Stack Developers Wes Bos and Scott Tolinski dive deep into web development topics, explaining how they work and talking about their own experiences. They cover from JavaScript frameworks like React, to the latest advancements in CSS to simplifying web tooling....
 
-* Number of published episodes: 874
+* Number of published episodes: 875
 * [Syntax - Tasty Web Development Treats Website](https://syntax.fm)
 * [Syntax - Tasty Web Development Treats Feed](https://feed.syntax.fm/rss)
 * Tags: Web Development, JavaScript, Full-Stack
