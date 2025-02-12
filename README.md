@@ -2,16 +2,16 @@
 
 
 
-<h3 id="compressedfm">COMPRESSEDfm</h3>
+<h3 id="syntax-tasty-web-development-treats">Syntax - Tasty Web Development Treats</h3>
 
-<img align="right" width="215" height="215" src="./generated/images/compressedfm.jpg" />
+<img align="right" width="215" height="215" src="./generated/images/syntax-tasty-web-development-treats.png" />
 
-A weekly podcast about web design and development with a little zest from James Q Quick, Amy Dutton, Brad Garropy, and Bekah HW....
+Full Stack Developers Wes Bos and Scott Tolinski dive deep into web development topics, explaining how they work and talking about their own experiences. They cover from JavaScript frameworks like React, to the latest advancements in CSS to simplifying web tooling....
 
-* Number of published episodes: 198
-* [COMPRESSEDfm Website](http://compressed.fm)
-* [COMPRESSEDfm Feed](https://feeds.simplecast.com/hq7M2S7s)
-* Tags: JavaScript, Web Development, Web Design
+* Number of published episodes: 876
+* [Syntax - Tasty Web Development Treats Website](https://syntax.fm)
+* [Syntax - Tasty Web Development Treats Feed](https://feed.syntax.fm/rss)
+* Tags: Web Development, JavaScript, Full-Stack
 
 ----
 
@@ -73,16 +73,16 @@ Our goal with this podcast is simple. I want to tell your story. I want to docum
 
 ----
 
-<h3 id="syntax-tasty-web-development-treats">Syntax - Tasty Web Development Treats</h3>
+<h3 id="compressedfm">COMPRESSEDfm</h3>
 
-<img align="right" width="215" height="215" src="./generated/images/syntax-tasty-web-development-treats.png" />
+<img align="right" width="215" height="215" src="./generated/images/compressedfm.jpg" />
 
-Full Stack Developers Wes Bos and Scott Tolinski dive deep into web development topics, explaining how they work and talking about their own experiences. They cover from JavaScript frameworks like React, to the latest advancements in CSS to simplifying web tooling....
+A weekly podcast about web design and development with a little zest from James Q Quick, Amy Dutton, Brad Garropy, and Bekah HW....
 
-* Number of published episodes: 875
-* [Syntax - Tasty Web Development Treats Website](https://syntax.fm)
-* [Syntax - Tasty Web Development Treats Feed](https://feed.syntax.fm/rss)
-* Tags: Web Development, JavaScript, Full-Stack
+* Number of published episodes: 199
+* [COMPRESSEDfm Website](http://compressed.fm)
+* [COMPRESSEDfm Feed](https://feeds.simplecast.com/hq7M2S7s)
+* Tags: JavaScript, Web Development, Web Design
 
 ----
 
