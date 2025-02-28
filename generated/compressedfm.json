@@ -1,11 +1,11 @@
 {
   "slug": "compressedfm",
   "name": "COMPRESSEDfm",
-  "description": "A weekly podcast about web design and development with a little zest from James Q Quick, Amy Dutton, Brad Garropy, and Bekah HW.",
+  "description": "A weekly podcast about web design and development with a little zest from Amy Dutton and Brad Garropy",
   "feedUrl": "https://feeds.simplecast.com/hq7M2S7s",
   "websiteUrl": "http://compressed.fm",
-  "author": "James Q. Quick, Amy Dutton, Brad Garropy, Bekah HW",
-  "episodeCount": 199,
+  "author": "Amy Dutton, Brad Garropy",
+  "episodeCount": 200,
   "categories": {
     "102": "Technology",
     "1": "Arts",
