@@ -8,7 +8,7 @@
 
 A weekly podcast about web design and development with a little zest from Amy Dutton and Brad Garropy...
 
-* Number of published episodes: 200
+* Number of published episodes: 201
 * [COMPRESSEDfm Website](http://compressed.fm)
 * [COMPRESSEDfm Feed](https://feeds.simplecast.com/hq7M2S7s)
 * Tags: JavaScript, Web Development, Web Design
@@ -36,7 +36,7 @@ Our goal with this podcast is simple. I want to tell your story. I want to docum
 
 Full Stack Developers Wes Bos and Scott Tolinski dive deep into web development topics, explaining how they work and talking about their own experiences. They cover from JavaScript frameworks like React, to the latest advancements in CSS to simplifying web tooling....
 
-* Number of published episodes: 882
+* Number of published episodes: 883
 * [Syntax - Tasty Web Development Treats Website](https://syntax.fm)
 * [Syntax - Tasty Web Development Treats Feed](https://feed.syntax.fm/rss)
 * Tags: Web Development, JavaScript, Full-Stack
