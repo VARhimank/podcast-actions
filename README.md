@@ -8,7 +8,7 @@
 
 A weekly podcast about web design and development with a little zest from Amy Dutton and Brad Garropy...
 
-* Number of published episodes: 202
+* Number of published episodes: 203
 * [COMPRESSEDfm Website](http://compressed.fm)
 * [COMPRESSEDfm Feed](https://feeds.simplecast.com/hq7M2S7s)
 * Tags: JavaScript, Web Development, Web Design
@@ -36,7 +36,7 @@ Our goal with this podcast is simple. I want to tell your story. I want to docum
 
 Full Stack Developers Wes Bos and Scott Tolinski dive deep into web development topics, explaining how they work and talking about their own experiences. They cover from JavaScript frameworks like React, to the latest advancements in CSS to simplifying web tooling....
 
-* Number of published episodes: 889
+* Number of published episodes: 890
 * [Syntax - Tasty Web Development Treats Website](https://syntax.fm)
 * [Syntax - Tasty Web Development Treats Feed](https://feed.syntax.fm/rss)
 * Tags: Web Development, JavaScript, Full-Stack
@@ -49,7 +49,7 @@ Full Stack Developers Wes Bos and Scott Tolinski dive deep into web development 
 
 Talk Python to Me is a weekly podcast hosted by developer and entrepreneur Michael Kennedy. We dive deep into the popular packages and software developers, data scientists, and incredible hobbyists doing amazing things with Python. If you're new to Python, you'll quickly learn the ins and outs of th...
 
-* Number of published episodes: 497
+* Number of published episodes: 498
 * [Talk Python To Me Website](https://talkpython.fm/)
 * [Talk Python To Me Feed](https://talkpython.fm/episodes/rss)
 * Tags: python, programming
