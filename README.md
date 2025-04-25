@@ -2,31 +2,16 @@
 
 
 
-<h3 id="compressedfm">COMPRESSEDfm</h3>
+<h3 id="contejas-code">ConTejas Code</h3>
 
-<img align="right" width="215" height="215" src="./generated/images/compressedfm.jpg" />
+<img align="right" width="215" height="215" src="./generated/images/contejas-code.jpeg" />
 
-A weekly podcast about web design and development with a little zest from Amy Dutton and Brad Garropy...
+ConTejas Code is a podcast in the web engineering space that has deep dives on various topics between frontend engineering with React, TypeScript, Next.js, and backend engineering with Kafka, Postgres, and more. The series is a mix of long-form content and guest episodes with industry leaders in the...
 
-* Number of published episodes: 204
-* [COMPRESSEDfm Website](http://compressed.fm)
-* [COMPRESSEDfm Feed](https://feeds.simplecast.com/hq7M2S7s)
-* Tags: JavaScript, Web Development, Web Design
-
-----
-
-<h3 id="that">THAT</h3>
-
-<img align="right" width="215" height="215" src="./generated/images/that.png" />
-
-Welcome to THAT, a daily podcast hosted by Clark Sell and the crew at THAT Conference.  
-
-Our goal with this podcast is simple. I want to tell your story. I want to document these experiences in such that we can all help one another. I know that sounds a bit abstract, but over the years, I’ve talked...
-
-* Number of published episodes: 76
-* [THAT Website](http://askthat.libsyn.com/website)
-* [THAT Feed](https://askthat.libsyn.com/rss)
-* Tags: THAT Conference, Open Source, Web Development
+* Number of published episodes: 79
+* [ConTejas Code Website](https://shows.acast.com/contejas-code)
+* [ConTejas Code Feed](https://feeds.acast.com/public/shows/655148df2861630012a1d01b)
+* Tags: Open Source, Web Development, JavaScript
 
 ----
 
@@ -36,7 +21,7 @@ Our goal with this podcast is simple. I want to tell your story. I want to docum
 
 Full Stack Developers Wes Bos and Scott Tolinski dive deep into web development topics, explaining how they work and talking about their own experiences. They cover from JavaScript frameworks like React, to the latest advancements in CSS to simplifying web tooling....
 
-* Number of published episodes: 896
+* Number of published episodes: 897
 * [Syntax - Tasty Web Development Treats Website](https://syntax.fm)
 * [Syntax - Tasty Web Development Treats Feed](https://feed.syntax.fm/rss)
 * Tags: Web Development, JavaScript, Full-Stack
@@ -53,6 +38,19 @@ Talk Python to Me is a weekly podcast hosted by developer and entrepreneur Micha
 * [Talk Python To Me Website](https://talkpython.fm/)
 * [Talk Python To Me Feed](https://talkpython.fm/episodes/rss)
 * Tags: python, programming
+
+----
+
+<h3 id="compressedfm">COMPRESSEDfm</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/compressedfm.jpg" />
+
+A weekly podcast about web design and development with a little zest from Amy Dutton and Brad Garropy...
+
+* Number of published episodes: 204
+* [COMPRESSEDfm Website](http://compressed.fm)
+* [COMPRESSEDfm Feed](https://feeds.simplecast.com/hq7M2S7s)
+* Tags: JavaScript, Web Development, Web Design
 
 ----
 
@@ -73,16 +71,18 @@ I am your host, Danny Thompson...
 
 ----
 
-<h3 id="contejas-code">ConTejas Code</h3>
+<h3 id="that">THAT</h3>
 
-<img align="right" width="215" height="215" src="./generated/images/contejas-code.jpeg" />
+<img align="right" width="215" height="215" src="./generated/images/that.png" />
 
-ConTejas Code is a podcast in the web engineering space that has deep dives on various topics between frontend engineering with React, TypeScript, Next.js, and backend engineering with Kafka, Postgres, and more. The series is a mix of long-form content and guest episodes with industry leaders in the...
+Welcome to THAT, a daily podcast hosted by Clark Sell and the crew at THAT Conference.  
 
-* Number of published episodes: 79
-* [ConTejas Code Website](https://shows.acast.com/contejas-code)
-* [ConTejas Code Feed](https://feeds.acast.com/public/shows/655148df2861630012a1d01b)
-* Tags: Open Source, Web Development, JavaScript
+Our goal with this podcast is simple. I want to tell your story. I want to document these experiences in such that we can all help one another. I know that sounds a bit abstract, but over the years, I’ve talked...
+
+* Number of published episodes: 76
+* [THAT Website](http://askthat.libsyn.com/website)
+* [THAT Feed](https://askthat.libsyn.com/rss)
+* Tags: THAT Conference, Open Source, Web Development
 
 ----
 
