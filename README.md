@@ -2,6 +2,19 @@
 
 
 
+<h3 id="the-azure-podcast">The Azure Podcast</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/the-azure-podcast.jpg" />
+
+Cynthia Kreng, Kendall Roden, Cale Teeter, Evan Basalik, Russell Young & Sujit D'Mello work at Microsoft in the cloud and services area. They specialize in building and supporting enterprise apps and services that leverage the cloud....
+
+* Number of published episodes: 100
+* [The Azure Podcast Website](http://azpodcast.azurewebsites.net/)
+* [The Azure Podcast Feed](http://feeds.feedburner.com/TheAzurePodcast)
+* Tags: azure, cloud, programming
+
+----
+
 <h3 id="contejas-code">ConTejas Code</h3>
 
 <img align="right" width="215" height="215" src="./generated/images/contejas-code.jpeg" />

@@ -1,0 +1,20 @@
+{
+  "slug": "the-azure-podcast",
+  "name": "The Azure Podcast",
+  "description": "Cynthia Kreng, Kendall Roden, Cale Teeter, Evan Basalik, Russell Young & Sujit D'Mello work at Microsoft in the cloud and services area. They specialize in building and supporting enterprise apps and services that leverage the cloud.",
+  "feedUrl": "http://feeds.feedburner.com/TheAzurePodcast",
+  "websiteUrl": "http://azpodcast.azurewebsites.net/",
+  "author": "Cynthia Kreng, Kendall Roden, Cale Teeter, Evan Basalik, Russell Young and Sujit D'Mello",
+  "episodeCount": 100,
+  "categories": {
+    "102": "Technology",
+    "55": "News"
+  },
+  "tags": [
+    "azure",
+    "cloud",
+    "programming"
+  ],
+  "image": "the-azure-podcast.jpg",
+  "podcastIndexId": "1087306"
+}
