@@ -1,0 +1,18 @@
+{
+  "slug": "hadith-tech-tech-talks",
+  "name": "Hadith Tech (tech talks)",
+  "description": "A podcast that host fireside interviews with tech leaders and role models to talk about their experience, career and life.",
+  "feedUrl": "https://anchor.fm/s/72e08798/podcast/rss",
+  "websiteUrl": "https://podcasters.spotify.com/pod/show/hadith-tech-en",
+  "author": "hadith_tech_en",
+  "episodeCount": 9,
+  "categories": {
+    "102": "Technology"
+  },
+  "tags": [
+    "tech",
+    "open source"
+  ],
+  "image": "hadith-tech-tech-talks.jpg",
+  "podcastIndexId": "5842030"
+}

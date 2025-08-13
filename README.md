@@ -2,6 +2,19 @@
 
 
 
+<h3 id="hadith-tech-tech-talks">Hadith Tech (tech talks)</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/hadith-tech-tech-talks.jpg" />
+
+A podcast that host fireside interviews with tech leaders and role models to talk about their experience, career and life....
+
+* Number of published episodes: 9
+* [Hadith Tech (tech talks) Website](https://podcasters.spotify.com/pod/show/hadith-tech-en)
+* [Hadith Tech (tech talks) Feed](https://anchor.fm/s/72e08798/podcast/rss)
+* Tags: tech, open source
+
+----
+
 <h3 id="the-azure-podcast">The Azure Podcast</h3>
 
 <img align="right" width="215" height="215" src="./generated/images/the-azure-podcast.jpg" />
