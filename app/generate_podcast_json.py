@@ -65,6 +65,7 @@ def enrich_data(data, api_key, api_secret, image_directory):
     print(f"{status=}")
     response_data = response.json()
     data['podcastIndexData'] = response_data
+    print(f"{response_data=}")
     slug = slugify(response_data['feed']['title'])
     image_url = response_data['feed']['image']
     image_response = requests.get(image_url)
