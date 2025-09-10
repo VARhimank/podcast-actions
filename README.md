@@ -2,6 +2,19 @@
 
 
 
+<h3 id="the-diary-of-a-ceo-with-steven-bartlett">The Diary Of A CEO with Steven Bartlett</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/the-diary-of-a-ceo-with-steven-bartlett.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress" />
+
+Steven Bartlett is a British entrepreneur, investor, and author. He’s the founder of Flight Story – a media company – and Flight Fund, an investment fund backing the next generation of category-defining businesses.He created The Diary Of A CEO to share the unfiltered pages of the personal diaries of...
+
+* Number of published episodes: 725
+* [The Diary Of A CEO with Steven Bartlett Website]()
+* [The Diary Of A CEO with Steven Bartlett Feed](https://feeds.megaphone.fm/thediaryofaceo)
+* Tags: The Diary Of A CEO with Steven Bartlett
+
+----
+
 <h3 id="aws-bites">AWS Bites</h3>
 
 <img align="right" width="215" height="215" src="./generated/images/aws-bites.jpg" />
