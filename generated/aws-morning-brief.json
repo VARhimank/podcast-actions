@@ -1,0 +1,20 @@
+{
+  "slug": "aws-morning-brief",
+  "name": "AWS Morning Brief",
+  "description": "The latest in AWS news, sprinkled with snark. Posts about AWS come out over sixty times a day. We filter through it all to find the hidden gems, the community contributions--the stuff worth hearing about! Then we summarize it with snark and share it with you--minus the nonsense.",
+  "feedUrl": "https://feeds.transistor.fm/aws-morning-brief",
+  "websiteUrl": "https://www.lastweekinaws.com",
+  "author": "Corey Quinn",
+  "episodeCount": 686,
+  "categories": {
+    "55": "News",
+    "9": "Business"
+  },
+  "tags": [
+    "AWS",
+    "Brief",
+    "amazon"
+  ],
+  "image": "aws-morning-brief.jpg",
+  "podcastIndexId": "1014299"
+}
