@@ -1,0 +1,19 @@
+{
+  "slug": "aws-bites",
+  "name": "AWS Bites",
+  "description": "AWS Bites is the show where we answer questions about AWS! This show is brought to you be Eoin Shanaghy and Luciano Mammino, certified AWS experts.",
+  "feedUrl": "https://anchor.fm/s/6a3312a0/podcast/rss",
+  "websiteUrl": "https://awsbites.com",
+  "author": "AWS Bites",
+  "episodeCount": 152,
+  "categories": {
+    "102": "Technology"
+  },
+  "tags": [
+    "shorts",
+    "aws",
+    "cloud"
+  ],
+  "image": "aws-bites.jpg",
+  "podcastIndexId": "4263317"
+}

@@ -2,6 +2,19 @@
 
 
 
+<h3 id="aws-bites">AWS Bites</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/aws-bites.jpg" />
+
+AWS Bites is the show where we answer questions about AWS! This show is brought to you be Eoin Shanaghy and Luciano Mammino, certified AWS experts....
+
+* Number of published episodes: 152
+* [AWS Bites Website](https://awsbites.com)
+* [AWS Bites Feed](https://anchor.fm/s/6a3312a0/podcast/rss)
+* Tags: shorts, aws, cloud
+
+----
+
 <h3 id="hadith-tech-tech-talks">Hadith Tech (tech talks)</h3>
 
 <img align="right" width="215" height="215" src="./generated/images/hadith-tech-tech-talks.jpg" />
