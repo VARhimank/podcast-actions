@@ -1,0 +1,19 @@
+{
+  "slug": "its-super-effective-a-pokemon-podcast",
+  "name": "It's Super Effective: A Pokemon Podcast",
+  "description": "It's Super Effective is a weekly Pok\u00e9mon new podcast that covers information on Pok\u00e9mon games (such as Pokemon Scarlet & Pok\u00e9mon Violet, as well as, Pok\u00e9mon GO and Pok\u00e9mon TCG Pocket). The podcast also talks about the Pok\u00e9mon Trading Card Game, Pok\u00e9mon Sleep, the Pok\u00e9mon anime, Pok\u00e9mon merchandise and more! It's Super Effective is an award-winning podcast and one of the most downloaded Pok\u00e9mon-based podcasts on the web. We're dedicated to bringing unique and fresh Pok\u00e9mon discussions to the internet.",
+  "feedUrl": "https://rss.art19.com/its-super-effective",
+  "websiteUrl": "https://art19.com/shows/its-super-effective",
+  "author": "PKMNcast.com",
+  "episodeCount": 689,
+  "categories": {
+    "42": "Leisure"
+  },
+  "tags": [
+    "pokemon",
+    "trial",
+    "actions"
+  ],
+  "image": "its-super-effective-a-pokemon-podcast.jpeg",
+  "podcastIndexId": "476983"
+}

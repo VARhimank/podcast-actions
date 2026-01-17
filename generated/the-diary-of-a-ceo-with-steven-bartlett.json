@@ -2,10 +2,10 @@
   "slug": "the-diary-of-a-ceo-with-steven-bartlett",
   "name": "The Diary Of A CEO with Steven Bartlett",
   "description": "Steven Bartlett is a British entrepreneur, investor, and author. He\u2019s the founder of Flight Story \u2013 a media company \u2013 and Flight Fund, an investment fund backing the next generation of category-defining businesses.He created The Diary Of A CEO to share the unfiltered pages of the personal diaries of the world\u2019s most fascinating CEOs, experts, therapists, and leaders \u2013 with the hope that their lessons will help both you and him live better lives. DOAC is a double acronym: Diary Of A CEO, but also Dreamers, Open-minded, Awareness, and Connection.This is your corner of the internet to dream boldly, think open...",
-  "feedUrl": "https://feeds.megaphone.fm/thediaryofaceo",
+  "feedUrl": "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn",
   "websiteUrl": "",
   "author": "DOAC",
-  "episodeCount": 725,
+  "episodeCount": 781,
   "categories": {
     "9": "Business",
     "77": "Society",
@@ -15,6 +15,6 @@
   "tags": [
     "The Diary Of A CEO with Steven Bartlett"
   ],
-  "image": "the-diary-of-a-ceo-with-steven-bartlett.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+  "image": "the-diary-of-a-ceo-with-steven-bartlett.png",
   "podcastIndexId": "499394"
 }
