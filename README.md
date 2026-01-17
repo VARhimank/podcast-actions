@@ -54,6 +54,19 @@ It's Super Effective is a weekly Pokémon new podcast that covers information on
 
 ----
 
+<h3 id="beer-n-biceps-podcast">Beer N Biceps Podcast</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/beer-n-biceps-podcast.jpg" />
+
+Is it possible to drink beer and still lose weight? Fitness Coach Matt Smith and his most successful client Todd Davies discuss the most common mistakes people make when trying to lose weight, while walking you through how to go about it. You will get weekly updates on Todd's progress as he embarks ...
+
+* Number of published episodes: 48
+* [Beer N Biceps Podcast Website](https://beernbiceps.com/)
+* [Beer N Biceps Podcast Feed](https://beernbiceps.com/feed/podcast/)
+* Tags: beer, biceps, podcast
+
+----
+
 <h3 id="talk-python-to-me">Talk Python To Me</h3>
 
 <img align="right" width="215" height="215" src="./generated/images/talk-python-to-me.jpg" />

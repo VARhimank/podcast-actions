@@ -1,0 +1,21 @@
+{
+  "slug": "beer-n-biceps-podcast",
+  "name": "Beer N Biceps Podcast",
+  "description": "Is it possible to drink beer and still lose weight? Fitness Coach Matt Smith and his most successful client Todd Davies discuss the most common mistakes people make when trying to lose weight, while walking you through how to go about it. You will get weekly updates on Todd's progress as he embarks on a fitness mission, all while drinking beer and leading a normal life. No tupperware containers filled with plain chicken and broccoli here! Just good advice and hopefully a good laugh too. Matt and Todd will also be discussing a different beer each week, and drinking it...",
+  "feedUrl": "https://beernbiceps.com/feed/podcast/",
+  "websiteUrl": "https://beernbiceps.com/",
+  "author": "Matt Smith",
+  "episodeCount": 48,
+  "categories": {
+    "29": "Health",
+    "30": "Fitness",
+    "34": "Nutrition"
+  },
+  "tags": [
+    "beer",
+    "biceps",
+    "podcast"
+  ],
+  "image": "beer-n-biceps-podcast.jpg",
+  "podcastIndexId": "689872"
+}
